@@ -44,18 +44,6 @@ This project implements a **4-step AI research pipeline**:
 
 ```
 
-```bash
-## ⚙️ Features
-
-- Multi-agent orchestration using LangChain-style architecture
-- Modular design (easy to extend agents)
-- Web search + content extraction pipeline
-- Automated report generation
-- AI-based critique and feedback system
-- Fully traceable step-by-step execution logs
-
-
-```
 
 
 
