@@ -1,5 +1,7 @@
 # Multi-agent-system-using-LangChain
 ## A modular multi-agent research system that automates information gathering, content extraction, report writing, and critical evaluation using LLM-powered agents.
+## 🤖 Model Configuration
+- gemini-3.1-flash-lite
 ```bash
 conda create -n langmula python=3.11 -y
 conda activate langmula 
